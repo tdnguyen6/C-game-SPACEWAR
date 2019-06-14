@@ -5,6 +5,8 @@ More information on libsigil can be found here: http://www.libsigil.com/
 
 The game is compiled using mingw32's bash shell in Windows 10.
 
+Running the game requires the executable file to be in the same folders with all dlls.
+
 vector.h: C header file to allow the use of C++ vectors in the C language.
 
 Icon is added using Resource Hacker.
