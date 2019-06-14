@@ -9,4 +9,4 @@ vector.h: C header file to allow the use of C++ vectors in the C language.
 
 Icon is added using Resource Hacker.
 
-The game's windows size is: 1000 x 730 pixels so it might be small on some high resolution screen.
+The game's windows size is: 1000 x 730 pixels so it might be small on some high resolution screens.
